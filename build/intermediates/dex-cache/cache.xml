@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dylan\Desktop\ComputAll\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="19b704f1dd194da4193a793dc28202d85fab80a2">
+        <dex dex="C:\Users\dylan\Desktop\ComputAll\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e2560fab28319f4f3b7fd71bd185d2a10f881e25\classes.dex" />
+    </item>
+
+</items>
